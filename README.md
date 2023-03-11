@@ -38,7 +38,7 @@ ___
 | `git commit -m "<commit message>"` | Commit changes with a short message |
 | `git commit -a -m "<commit message>"` | Commit changes with a short message skipping the staging environment |
 | `git rm -r <file-name.txt>` | Remove a tracked file (or folder) |
-| `git mv <old name> <new name> | Rename the file |
+| `git mv <old name> <new name>` | Rename the file |
 
 
 ### Rollbacks
