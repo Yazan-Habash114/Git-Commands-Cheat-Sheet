@@ -94,7 +94,7 @@ ___
 | `git log` | View commit history |
 | `git log -p` | View commit history with changes |
 | `git log --stat` | Show statistics in each commit including line(s) changed |
-| `git log --summary` | View changes (detailed) |
+| `git log --summary` | View commits (summary) |
 | `git log --oneline --graph --all` | View changes (briefly in single line) graphically for all branches |
 | `git log origin/main` | Check the current commits log of a remote repo |
 | `git show <commit-id>` | View a specific commit |
