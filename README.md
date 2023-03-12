@@ -91,7 +91,7 @@ ___
 ### Inspection & Comparison
 | Command | Description |
 | ------- | ----------- |
-| `git log` | View commit history |
+| `git log [-n]` | View commit history [of last n commits] |
 | `git log -p` | View commit history with changes |
 | `git log --stat` | Show statistics in each commit including line(s) changed |
 | `git log --summary` | View commits (summary) |
