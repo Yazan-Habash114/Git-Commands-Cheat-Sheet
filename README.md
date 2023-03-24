@@ -9,7 +9,8 @@ ___
 | ------- | ----------- |
 | `git config --global user.name "<your username>"` | Setup your Git username |
 | `git config --global user.email "<your email>"` | Setup your Git email address |
-| `git config --global credential.helper cache` | Caching your login credentials in Git |
+| `git config --global credential.helper cache` | Caching your login credentials in Git like tokens |
+| `git config --global --unset credential.helper` | clearing out the cached credentials |
 
 
 ### Git help
